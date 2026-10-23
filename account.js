@@ -1,17 +1,17 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (FREE 69)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "Fire 69";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/b69topup";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/b69topup";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
